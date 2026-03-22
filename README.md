@@ -1,7 +1,7 @@
 # realiteMixte_TP3_onekeo_theoret_ricard
-**Portez-vous Prêt**
+**Portez-vous prêt**
 
-Portez-vous bien est une expérience en réalité virtuelle offrant trois niveaux à jouer, chacun de manière différente avec des objectifs inassimilables!
+Portez-vous prêt est une expérience en réalité virtuelle offrant trois niveaux à jouer, chacun de manière différente avec des objectifs inassimilables!
 
 Ce jeu est une expérience offrant à l'utilisateur trois choix de porte à ouvrir :
 
