@@ -51,6 +51,8 @@ https://pixabay.com/music/search/background%20game/?pagi=2
 
 https://pixabay.com/music/video-games-puzzle-game-bright-casual-video-game-music-249202/
 
+SE : https://pixabay.com/sound-effects/film-special-effects-pick-92276/
+
 
 ### 🟦 Cherche et trouve
 
@@ -68,6 +70,8 @@ SE : https://pixabay.com/sound-effects/search/collect/
 
 SE : https://pixabay.com/sound-effects/nature-waterfall-24060/
 
+SE : https://pixabay.com/sound-effects/musical-turret-ow-85373/
+
 
 ### 🟨 Lobby
 
@@ -78,6 +82,10 @@ https://pixabay.com/music/bossa-nova-waiting-music-116216/
 https://pixabay.com/music/search/background%20waiting/
 
 SE : https://pixabay.com/sound-effects/film-special-effects-walking-sound-effect-272246/
+
+SE : https://pixabay.com/sound-effects/film-special-effects-item-pick-up-38258/
+
+SE teleportation : https://pixabay.com/sound-effects/film-special-effects-teleporting-or-intro-sound-326867/
 
 
 ## Carte de l’environnement
