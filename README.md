@@ -1,10 +1,10 @@
 # 🎮 Réalité Mixte — TP3  
 ## Portez-vous prêt
 
-## 🧠 Concept du jeu
-Portez-vous prêt est une expérience en réalité virtuelle offrant trois niveaux à jouer, chacun de manière différente avec des objectifs inassimilables!
+## Concept du jeu
+Portez-vous prêt est une expérience en réalité virtuelle offrant trois niveaux à jouer, chacun de manière différente avec des objectifs incomparables!
 
-## 🚪 Les niveaux
+## Les niveaux
 
 Ce jeu est une expérience offrant à l'utilisateur trois choix de porte à ouvrir :
 
@@ -24,7 +24,7 @@ Ce niveau met l’accent sur la rapidité et la pression, tout en mettant en val
 Les niveaux ne seront pas simple, mais seront tout de même accessible et maîtrisable par tous.
 
 
-## 🎨 Moodboard visuel
+## Moodboard visuel
 
 ### Lobby
 ![lobby](https://github.com/user-attachments/assets/b16f646e-709a-4960-b27e-b84a991eaf27)
@@ -38,7 +38,7 @@ Les niveaux ne seront pas simple, mais seront tout de même accessible et maîtr
 ### Course
 ![course](https://github.com/user-attachments/assets/da7a2ad1-21f0-4948-94c4-f2d4d34411b0)
 
-## 🔊 Moodboard sonore
+## Moodboard sonore
 ### 🟥 Course
 
 https://pixabay.com/music/upbeat-race-cars-phonk-gaming-music-196477/
@@ -71,9 +71,9 @@ https://pixabay.com/music/bossa-nova-waiting-music-116216/
 https://pixabay.com/music/search/background%20waiting/
 
 
-## 🗺️ Carte de l’environnement
+## Carte de l’environnement
 ![carteEnvironement](https://github.com/user-attachments/assets/bbc483f6-765a-4870-8db5-5a4d5b4fabbc)
 
-## 🧩 Schéma du jeu
+## Schéma du jeu
 ![shemaJeux](https://github.com/user-attachments/assets/3a538ccf-6a68-4a65-b6f3-69f981b530a8)
 
