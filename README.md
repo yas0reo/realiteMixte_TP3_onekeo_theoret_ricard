@@ -28,10 +28,10 @@ Les niveaux ne seront pas simple, mais seront tout de même accessible et maîtr
 ## Moodboard visuel
 
 ### Lobby et Cherche et trouve
-<img width="1920" height="1080" alt="moodboard_1" src="https://github.com/user-attachments/assets/732fa23c-e256-4d28-8577-acb5b8334aa3" />
+<img width="1920" height="1080" alt="moodboard 1" src="https://github.com/user-attachments/assets/2cc682aa-bc8f-43b6-99bb-bf00362ff70c" />
 
 ### Parcours et Course contre la montre
-<img width="1920" height="1080" alt="moodboard_2" src="https://github.com/user-attachments/assets/d67a47d2-0d36-440f-8e95-2ef94fbeedf1" />
+<img width="1920" height="1080" alt="moodboard 2" src="https://github.com/user-attachments/assets/f9a09985-0bac-43ff-8271-7486fabe7bdb" />
 
 
 
