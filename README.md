@@ -5,7 +5,7 @@ Portez-vous prêt est une expérience en réalité virtuelle offrant trois nivea
 
 ## Les niveaux
 
-Ce jeu est une expérience offrant à l'utilisateur trois choix de porte à ouvrir :
+Ce jeu est une expérience offrant à l'utilisateur trois choix de portails à ouvrir :
 
 ### 🟢 Niveau 1 — Parcours
 Le joueur doit traverser un environnement composé de plateformes flottantes.
