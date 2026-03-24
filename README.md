@@ -62,6 +62,10 @@ https://pixabay.com/music/bossa-nova-waiting-music-116216/
 
 https://pixabay.com/music/search/background%20waiting/
 
-**schéma du jeu** :
+
+**Carte de l'environnement** :
+![carteEnvironement](https://github.com/user-attachments/assets/bbc483f6-765a-4870-8db5-5a4d5b4fabbc)
+
+**Schéma du jeu** :
 ![shemaJeux](https://github.com/user-attachments/assets/3a538ccf-6a68-4a65-b6f3-69f981b530a8)
 
