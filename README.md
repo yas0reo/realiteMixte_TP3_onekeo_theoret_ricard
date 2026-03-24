@@ -42,6 +42,8 @@ https://pixabay.com/music/upbeat-race-cars-phonk-gaming-music-196477/
 
 https://pixabay.com/music/upbeat-winning-the-race-21326/
 
+SE : https://pixabay.com/sound-effects/film-special-effects-collect-5930/
+
 
 ### 🟩 Parcours
 
@@ -58,6 +60,14 @@ https://pixabay.com/music/corporate-wonderance-238842/
 
 https://pixabay.com/music/beats-off-the-world-421022/
 
+https://pixabay.com/sound-effects/nature-underwater-ambience-6201/
+
+https://pixabay.com/sound-effects/musical-uplifting-pad-texture-113842/
+
+SE : https://pixabay.com/sound-effects/search/collect/
+
+SE : https://pixabay.com/sound-effects/nature-waterfall-24060/
+
 
 ### 🟨 Lobby
 
@@ -66,6 +76,8 @@ https://pixabay.com/music/beats-off-the-world-421022/
 https://pixabay.com/music/bossa-nova-waiting-music-116216/
 
 https://pixabay.com/music/search/background%20waiting/
+
+SE : https://pixabay.com/sound-effects/film-special-effects-walking-sound-effect-272246/
 
 
 ## Carte de l’environnement
