@@ -61,3 +61,7 @@ https://pixabay.com/music/beats-off-the-world-421022/
 https://pixabay.com/music/bossa-nova-waiting-music-116216/
 
 https://pixabay.com/music/search/background%20waiting/
+
+**schéma du jeu** :
+![shemaJeux](https://github.com/user-attachments/assets/3a538ccf-6a68-4a65-b6f3-69f981b530a8)
+
