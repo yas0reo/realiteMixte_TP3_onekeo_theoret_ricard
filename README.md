@@ -1,9 +1,9 @@
 # 🎮 Réalité Mixte — TP3  
 
-# The space in betweennn
+# Spaces in Betweennn
 
 ## Concept du jeu
-The space in betweennn est une expérience en réalité virtuelle offrant trois niveaux à jouer, chacun de manière différente avec des objectifs incomparables!
+Spaces in Betweennn est une expérience en réalité virtuelle offrant trois niveaux à jouer, chacun de manière différente avec des objectifs incomparables!
 
 ## Les niveaux
 
