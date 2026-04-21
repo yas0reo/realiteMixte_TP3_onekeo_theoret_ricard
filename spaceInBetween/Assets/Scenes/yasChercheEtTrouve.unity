@@ -3080,9 +3080,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ccbf6205ec31ed419cebeccf5a1f9e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bottle: {fileID: 0}
-  count: 0
-  pointage: {fileID: 211417585}
 --- !u!1 &316793665 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1836246449870361477, guid: 4e3d870a7aa0af84cabc33908bf52ba8, type: 3}
@@ -11595,7 +11592,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 649.1, y: 317.51}
+  m_AnchoredPosition: {x: 515.9, y: 317.51}
   m_SizeDelta: {x: 338.01, y: 101.5131}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &895445388
@@ -11622,8 +11619,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 215af081559f6d143a611a47b33598d2, type: 2}
+  m_sharedMaterial: {fileID: 3741781847841689044, guid: 215af081559f6d143a611a47b33598d2, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -11647,7 +11644,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 73.78
+  m_fontSize: 64.3
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -25898,8 +25895,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Tu as trouv\xE9  _   bouteilles sur  _\n"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 215af081559f6d143a611a47b33598d2, type: 2}
+  m_sharedMaterial: {fileID: 3741781847841689044, guid: 215af081559f6d143a611a47b33598d2, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -25923,7 +25920,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 73.78
+  m_fontSize: 64.3
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -29386,7 +29383,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 69.4, y: 317.51}
+  m_AnchoredPosition: {x: 14.7, y: 317.51}
   m_SizeDelta: {x: 338.01, y: 101.5131}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2124250687
@@ -29413,8 +29410,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 215af081559f6d143a611a47b33598d2, type: 2}
+  m_sharedMaterial: {fileID: 3741781847841689044, guid: 215af081559f6d143a611a47b33598d2, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -29438,7 +29435,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 73.78
+  m_fontSize: 64.3
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
