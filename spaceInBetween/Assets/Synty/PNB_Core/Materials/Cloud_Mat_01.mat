@@ -75,7 +75,7 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0
     - _GlossyReflections: 1
-    - _Light_Intensity: 0
+    - _Light_Intensity: -0.2
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
@@ -98,7 +98,7 @@ Material:
     - _TransShadow: 0.398
     - _Translucency: 12
     - _UVSec: 0
-    - _Use_Environment_Override: 0
+    - _Use_Environment_Override: 1
     - _WindDirection1: 1.24
     - _WindEffect: 1
     - _WindNoiseScale: 0.005
@@ -129,7 +129,7 @@ Material:
     - _stepFloat: 9.56
     - _stepFloatRim: 1.56
     m_Colors:
-    - _Base_Color: {r: 0.7058824, g: 0.8901961, b: 1, a: 1}
+    - _Base_Color: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 0.8773585, g: 0.8773585, b: 0.8773585, a: 1}
     - _Color0: {r: 0.631, g: 0.80809605, b: 1, a: 0}
     - _Color3: {r: 0.723, g: 0.80609995, b: 1, a: 0}
@@ -143,7 +143,7 @@ Material:
     - _Light_Direction_Override: {r: 0, g: 0, b: 0, a: 0}
     - _Scattering_Color: {r: 0.735849, g: 0.5341338, b: 0.253382, a: 0}
     - _Tint: {r: 0.5, g: 0.5, b: 0.5, a: 0}
-    - _Top_Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Top_Color: {r: 0.5518868, g: 0.5518868, b: 0.5518868, a: 1}
     - _Translucency: {r: 0.5, g: 0.5, b: 0.5, a: 0}
     - _emissiveColour: {r: 0.759, g: 0.8125556, b: 1, a: 0}
     - _emissiveColour1: {r: 0.656535, g: 0.7297195, b: 0.865, a: 0}
