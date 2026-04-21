@@ -38,8 +38,9 @@ Les niveaux ne seront pas simple, mais seront tout de même accessible et maîtr
 ## Moodboard sonore
 ### 🟥 Course
 
-https://pixabay.com/music/upbeat-race-cars-phonk-gaming-music-196477/
-
+https://pixabay.com/music/electronic-fast-beat-trap-instrumental-421083/
+https://pixabay.com/music/world-the-chinese-modern-143818/
+https://pixabay.com/music/upbeat-fast-action-166028/
 https://pixabay.com/music/upbeat-winning-the-race-21326/
 
 SE : https://pixabay.com/sound-effects/film-special-effects-collect-5930/
