@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class joueur : MonoBehaviour
+public class Course_obstacles : MonoBehaviour
 {
     public deplacementAutomatique deplacementAuto;
     private void OnTriggerEnter(Collider other)
@@ -12,8 +12,10 @@ public class joueur : MonoBehaviour
         {
             StartCoroutine("mort");
         }
-
-
+        else if (other.tag == "scene")
+        {
+            SceneManager.LoadScene("jess");
+        }
     }
     public IEnumerator mort()
     {

@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/jess.unity
+    guid: cd93a08d21164c240ab9283ff1135fed
+  - enabled: 1
     path: Assets/Scenes/manu_course.unity
     guid: d75cc37aa2942a34ab66806c30c1b719
   m_configObjects:
