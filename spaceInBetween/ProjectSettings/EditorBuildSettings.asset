@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/manu_course.unity
     guid: d75cc37aa2942a34ab66806c30c1b719
+  - enabled: 1
+    path: Assets/Scenes/yasChercheEtTrouve.unity
+    guid: c0e3460345011fa4da29a190a3f6fdbc
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f9183d8dfe5469c4f9ab5b25d1953fbf, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ae00b5ec863e6da4ba93220340965eb1, type: 2}
