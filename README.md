@@ -38,13 +38,7 @@ Les niveaux ne seront pas simple, mais seront tout de même accessible et maîtr
 ## Moodboard sonore
 ### 🟥 Course
 
-https://pixabay.com/music/electronic-fast-beat-trap-instrumental-421083/
-https://pixabay.com/music/world-the-chinese-modern-143818/
-https://pixabay.com/music/upbeat-fast-action-166028/
-https://pixabay.com/music/upbeat-winning-the-race-21326/
-https:/suno.com
-SE : https://pixabay.com/sound-effects/film-special-effects-collect-5930/
-
+https://www.epidemicsound.com/music/tracks/6bea49c8-3213-44cc-964a-dcd2c0651cee/
 
 ### 🟩 Parcours
 
@@ -57,15 +51,7 @@ SE : https://pixabay.com/sound-effects/film-special-effects-pick-92276/
 
 ### 🟦 Cherche et trouve
 
-https://pixabay.com/music/ambient-aquatic-downtime-363761/
-
-https://pixabay.com/music/corporate-wonderance-238842/
-
-https://pixabay.com/music/beats-off-the-world-421022/
-
-https://pixabay.com/sound-effects/nature-underwater-ambience-6201/
-
-https://pixabay.com/sound-effects/musical-uplifting-pad-texture-113842/
+https://www.epidemicsound.com/music/tracks/617fae3d-2f16-48dc-925b-3f670cbf4f24/
 
 SE : https://pixabay.com/sound-effects/search/collect/
 
