@@ -4602,6 +4602,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: XR Device Simulator
       objectReference: {fileID: 0}
+    - target: {fileID: 6598815579406187037, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5946,9 +5950,9 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 101244497}
-  - {fileID: 1151728921}
   - {fileID: 2016906634}
   - {fileID: 2146473948}
+  - {fileID: 1151728921}
   m_Father: {fileID: 1378101857}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -6113,7 +6117,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1151728920}
   m_LocalRotation: {x: -0.041873477, y: -0, z: 0.0000000037252899, w: 0.999123}
-  m_LocalPosition: {x: 0, y: 0, z: 0.01}
+  m_LocalPosition: {x: 0, y: 0, z: -0.0366}
   m_LocalScale: {x: 0.0049010296, y: 0.0049010296, z: 0.0049010296}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -6122,8 +6126,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: -4.8, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 2.348, y: -0.118}
-  m_SizeDelta: {x: 540, y: 540}
+  m_AnchoredPosition: {x: 2.348, y: 0.4372}
+  m_SizeDelta: {x: 540, y: 767.3452}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1151728922
 MonoBehaviour:
@@ -10870,7 +10874,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2016906634
 RectTransform:
   m_ObjectHideFlags: 0
@@ -11289,7 +11293,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2146473948
 RectTransform:
   m_ObjectHideFlags: 0

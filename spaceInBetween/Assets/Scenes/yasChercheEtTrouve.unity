@@ -12498,7 +12498,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   count: 0
-  pointage: {fileID: 0}
+  pointage: {fileID: 449836637}
 --- !u!1 &1020130643 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3005644128467938717, guid: 3ac5193848b216c47a5df181f764b9d7, type: 3}
@@ -18857,7 +18857,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   count: 0
-  pointage: {fileID: 0}
+  pointage: {fileID: 449836637}
 --- !u!4 &1426559782
 Transform:
   m_ObjectHideFlags: 0
