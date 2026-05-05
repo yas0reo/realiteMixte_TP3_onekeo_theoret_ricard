@@ -3,17 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - obstacle
-  - bouteille
-  - boite
-  - scene
-<<<<<<< Updated upstream
-  - scene_course
-  - scene_cherche_et_trouve
-=======
-  - recommencer_course
->>>>>>> Stashed changes
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -21,8 +11,8 @@ TagManager:
   - 
   - Water
   - UI
-  - PostProcess
-  - UISansPos
+  - 
+  - 
   - 
   - 
   - 
