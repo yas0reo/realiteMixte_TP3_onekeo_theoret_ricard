@@ -8,6 +8,8 @@ TagManager:
   - bouteille
   - boite
   - scene
+  - scene_course
+  - scene_cherche_et_trouve
   layers:
   - Default
   - TransparentFX
