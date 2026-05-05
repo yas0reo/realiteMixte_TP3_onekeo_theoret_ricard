@@ -8,8 +8,12 @@ TagManager:
   - bouteille
   - boite
   - scene
+<<<<<<< Updated upstream
   - scene_course
   - scene_cherche_et_trouve
+=======
+  - recommencer_course
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX

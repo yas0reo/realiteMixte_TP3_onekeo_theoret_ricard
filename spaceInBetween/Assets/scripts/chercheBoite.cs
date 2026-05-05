@@ -5,18 +5,16 @@ using UnityEngine;
 
 public class boite : MonoBehaviour
 {
-    public int count = 0;
+    public int count;
     public HighScorePersistant pointage;
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("bouteille"))
+        if (other.tag == "bouteille")
         {
+            other.gameObject.SetActive(false);
             count++;
             pointage.OnChangerPointage(count);
-
-            // Optionnel : désactiver la bouteille après qu'elle soit comptée
-            other.gameObject.SetActive(false);
         }
     }
 }
