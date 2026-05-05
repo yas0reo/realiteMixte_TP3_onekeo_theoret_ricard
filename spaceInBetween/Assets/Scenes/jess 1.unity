@@ -3410,15 +3410,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2180892560441652387, guid: 2265b3926c31a3640a20a24a6c7de4a1, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.136
+      value: 0.547
       objectReference: {fileID: 0}
     - target: {fileID: 2180892560441652387, guid: 2265b3926c31a3640a20a24a6c7de4a1, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 20.41
+      value: 20.433
       objectReference: {fileID: 0}
     - target: {fileID: 2180892560441652387, guid: 2265b3926c31a3640a20a24a6c7de4a1, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 62.541
+      value: 63.018
       objectReference: {fileID: 0}
     - target: {fileID: 2180892560441652387, guid: 2265b3926c31a3640a20a24a6c7de4a1, type: 3}
       propertyPath: m_LocalRotation.w
@@ -6039,6 +6039,18 @@ MonoBehaviour:
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 1
+        m_CallState: 2
+      - m_Target: {fileID: 1378101852}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1114953792
 MonoBehaviour:
