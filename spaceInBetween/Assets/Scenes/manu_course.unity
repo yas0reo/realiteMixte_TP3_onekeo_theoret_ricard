@@ -20144,7 +20144,7 @@ GameObject:
   - component: {fileID: 1516058644}
   - component: {fileID: 1516058643}
   m_Layer: 0
-  m_Name: r
+  m_Name: change_scene
   m_TagString: scene
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
