@@ -621,6 +621,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4425115957171066047, guid: ef3c8ec49aa5bab449f59408bef77891, type: 3}
   m_PrefabInstance: {fileID: 786480358}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &81386135 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5358220775051822842, guid: 236cce36376db1240bd5e68d040f6f02, type: 3}
+  m_PrefabInstance: {fileID: 1147619329}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &81753587 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6399433736969719127, guid: 3691b837c44b37a4ab637987551c4790, type: 3}
@@ -1623,6 +1628,27 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4690474597158837312, guid: 236cce36376db1240bd5e68d040f6f02, type: 3}
   m_PrefabInstance: {fileID: 1147619329}
   m_PrefabAsset: {fileID: 0}
+--- !u!65 &242944439
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 81386135}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 50, y: 7.212402, z: 50.000004}
+  m_Center: {x: 0.000029547684, y: -3.6061385, z: 0.0001224738}
 --- !u!1001 &276311047
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2367,6 +2393,10 @@ PrefabInstance:
     - target: {fileID: 5358220775051822842, guid: 236cce36376db1240bd5e68d040f6f02, type: 3}
       propertyPath: m_Name
       value: portal 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5358220775051822842, guid: 236cce36376db1240bd5e68d040f6f02, type: 3}
+      propertyPath: m_TagString
+      value: scene_cherche_et_trouve
       objectReference: {fileID: 0}
     - target: {fileID: 5862777521056687919, guid: 236cce36376db1240bd5e68d040f6f02, type: 3}
       propertyPath: m_CastShadows
@@ -3556,6 +3586,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1068045001908467037, guid: 2265b3926c31a3640a20a24a6c7de4a1, type: 3}
       insertIndex: -1
       addedObject: {fileID: 755575434}
+    - targetCorrespondingSourceObject: {fileID: 1068045001908467037, guid: 2265b3926c31a3640a20a24a6c7de4a1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 755575435}
   m_SourcePrefab: {fileID: 100100000, guid: 2265b3926c31a3640a20a24a6c7de4a1, type: 3}
 --- !u!1 &674241460 stripped
 GameObject:
@@ -3745,6 +3778,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 763de2e0135973b41bc7f11024410145, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &755575435
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 755575426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f10727feacf2c884bbae3fa7560639ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1001 &761117561
@@ -6036,7 +6081,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5358220775051822842, guid: 236cce36376db1240bd5e68d040f6f02, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 242944439}
   m_SourcePrefab: {fileID: 100100000, guid: 236cce36376db1240bd5e68d040f6f02, type: 3}
 --- !u!1 &1151728920
 GameObject:
@@ -7509,8 +7557,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 50.000008, y: 0.0000024594606, z: 50}
-  m_Center: {x: 0, y: 0, z: -0.00012207031}
+  m_Size: {x: 50.000008, y: 9.719268, z: 50.000004}
+  m_Center: {x: 9.844774e-14, y: -4.859681, z: -0.00012270808}
 --- !u!1 &1422090773
 GameObject:
   m_ObjectHideFlags: 0
@@ -10822,7 +10870,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &2016906634
 RectTransform:
   m_ObjectHideFlags: 0
@@ -11241,7 +11289,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &2146473948
 RectTransform:
   m_ObjectHideFlags: 0
