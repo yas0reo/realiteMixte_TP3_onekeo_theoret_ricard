@@ -40,13 +40,9 @@ Les niveaux ne seront pas simple, mais seront tout de même accessible et maîtr
 
 https://www.epidemicsound.com/music/tracks/6bea49c8-3213-44cc-964a-dcd2c0651cee/
 
-### 🟩 Parcours
+### 🟩 Zenitude
 
-https://pixabay.com/music/search/background%20game/?pagi=2
-
-https://pixabay.com/music/video-games-puzzle-game-bright-casual-video-game-music-249202/
-
-SE : https://pixabay.com/sound-effects/film-special-effects-pick-92276/
+https://pixabay.com/fr/music/m%c3%a9ditation-spirituel-flute-of-the-infinite-sky-486758/
 
 
 ### 🟦 Cherche et trouve
