@@ -51,9 +51,6 @@ https://www.epidemicsound.com/music/tracks/617fae3d-2f16-48dc-925b-3f670cbf4f24/
 
 SE : https://pixabay.com/sound-effects/search/collect/
 
-SE : https://pixabay.com/sound-effects/nature-waterfall-24060/
-
-SE : https://pixabay.com/sound-effects/musical-turret-ow-85373/
 
 
 ### 🟨 Lobby
@@ -63,8 +60,6 @@ https://pixabay.com/music/beats-off-the-world-421022/
 https://pixabay.com/music/bossa-nova-waiting-music-116216/
 
 https://pixabay.com/music/search/background%20waiting/
-
-SE : https://pixabay.com/sound-effects/film-special-effects-walking-sound-effect-272246/
 
 SE : https://pixabay.com/sound-effects/film-special-effects-item-pick-up-38258/
 
