@@ -61,10 +61,6 @@ https://pixabay.com/music/bossa-nova-waiting-music-116216/
 
 https://pixabay.com/music/search/background%20waiting/
 
-SE : https://pixabay.com/sound-effects/film-special-effects-item-pick-up-38258/
-
-SE teleportation : https://pixabay.com/sound-effects/film-special-effects-teleporting-or-intro-sound-326867/
-
 
 ## Carte de l’environnement
 ![carteEnvironement](https://github.com/user-attachments/assets/bbc483f6-765a-4870-8db5-5a4d5b4fabbc)
