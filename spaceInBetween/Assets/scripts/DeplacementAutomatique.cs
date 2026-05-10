@@ -12,12 +12,29 @@ public class deplacementAutomatique : MonoBehaviour
 
     private bool changementVoieActuel = false;
 
+    public bool avance;
+
+    public Animator animFleche; 
 
 
-    void Update()
+    private void Start()
     {
-        // 1. Avancer automatiquement
-        transform.Translate(Vector3.forward * vitesseAvance * Time.deltaTime);
+        avance = true;
+        StartCoroutine("avancer");
+    }
+
+   
+
+    public IEnumerator avancer()
+    {
+        animFleche.Play("fleche");
+        yield return new WaitForSeconds(3f);
+
+
+        while(avance == true)
+        {
+            // 1. Avancer automatiquement
+            transform.Translate(Vector3.forward * vitesseAvance * Time.deltaTime);
 
         // 2. Input joystick (horizontal)
         if (!changementVoieActuel)
@@ -59,6 +76,10 @@ public class deplacementAutomatique : MonoBehaviour
         {
             changementVoieActuel = false;
         }
+        yield return null;
+        }
+
+        yield break;
     }
 
 
