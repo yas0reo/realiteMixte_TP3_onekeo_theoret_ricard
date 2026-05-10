@@ -2599,6 +2599,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Skydome_01
       objectReference: {fileID: 0}
+    - target: {fileID: 5312741001786462339, guid: ec546d033fbe13f42a0a7efb164718a7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5961175717370474838, guid: ec546d033fbe13f42a0a7efb164718a7, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -3466,6 +3470,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1068045001908467037, guid: 2265b3926c31a3640a20a24a6c7de4a1, type: 3}
       insertIndex: -1
       addedObject: {fileID: 755575435}
+    - targetCorrespondingSourceObject: {fileID: 1068045001908467037, guid: 2265b3926c31a3640a20a24a6c7de4a1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 755575443}
   m_SourcePrefab: {fileID: 100100000, guid: 2265b3926c31a3640a20a24a6c7de4a1, type: 3}
 --- !u!1 &674241460 stripped
 GameObject:
@@ -3667,6 +3674,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f10727feacf2c884bbae3fa7560639ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &755575443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 755575426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17546699f2e43cb4ab93d252bb60bf65, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1001 &761117561
@@ -4481,7 +4500,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6598815579406187037, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6248,6 +6267,10 @@ PrefabInstance:
     - target: {fileID: 5358220775051822842, guid: 236cce36376db1240bd5e68d040f6f02, type: 3}
       propertyPath: m_Name
       value: SM_Env_Water_Plane_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 5358220775051822842, guid: 236cce36376db1240bd5e68d040f6f02, type: 3}
+      propertyPath: m_TagString
+      value: scene_trouveleportail
       objectReference: {fileID: 0}
     - target: {fileID: 5862777521056687919, guid: 236cce36376db1240bd5e68d040f6f02, type: 3}
       propertyPath: m_CastShadows

@@ -9,6 +9,8 @@ TagManager:
   - scene_cherche_et_trouve
   - scene_course
   - trouvelaporte
+  - trouvelaporte2
+  - scene_trouveleportail
   layers:
   - Default
   - TransparentFX

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class scriptrouve : MonoBehaviour
+public class scripttrouvelaporte : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -19,13 +19,13 @@ public class scriptrouve : MonoBehaviour
 
     public void jouer()
     {
-        SceneManager.LoadScene(4);
+        SceneManager.LoadScene(3);
     }
 
     private void OnTriggerEnter(Collider other)
     {
         Debug.Log("bonjour");
-        if (other.tag == "trouvelaporte")
+        if (other.tag == "scene_trouveleportail")
         {
             Debug.Log("hi");
             jouer();
