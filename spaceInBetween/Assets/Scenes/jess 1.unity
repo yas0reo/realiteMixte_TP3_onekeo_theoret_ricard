@@ -4769,9 +4769,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'assets:
-
-    music:'
+  m_text: "assets: https://assetstore.unity.com/packages/3d/environments/landscapes/polygon-tropical-jungle-nature-biomes-3d-environment-art-by-synt-234253\n\nmusic:
+    Course\r\nhttps://www.epidemicsound.com/music/tracks/6bea49c8-3213-44cc-964a-dcd2c0651cee/\r\n\r\n\U0001F7E9
+    Zenitude\r\nhttps://pixabay.com/fr/music/m%c3%a9ditation-spirituel-flute-of-the-infinite-sky-486758/\r\n\r\n\U0001F7E6
+    Cherche et trouve\r\nhttps://www.epidemicsound.com/music/tracks/617fae3d-2f16-48dc-925b-3f670cbf4f24/\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 215af081559f6d143a611a47b33598d2, type: 2}
   m_sharedMaterial: {fileID: 3741781847841689044, guid: 215af081559f6d143a611a47b33598d2, type: 2}
@@ -4798,8 +4799,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 5
+  m_fontSizeBase: 5
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -11479,7 +11480,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2142162573
 RectTransform:
   m_ObjectHideFlags: 0
