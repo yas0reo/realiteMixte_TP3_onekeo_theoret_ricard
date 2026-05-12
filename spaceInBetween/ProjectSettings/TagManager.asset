@@ -11,6 +11,11 @@ TagManager:
   - trouvelaporte
   - trouvelaporte2
   - scene_trouveleportail
+  - boite
+  - scene
+  - obstacle
+  - recommencer_course
+  - retourne lobby
   layers:
   - Default
   - TransparentFX

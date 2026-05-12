@@ -3400,6 +3400,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1956284102033235633, guid: 2265b3926c31a3640a20a24a6c7de4a1, type: 3}
+      propertyPath: m_MoveSpeed
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2180892560441652387, guid: 2265b3926c31a3640a20a24a6c7de4a1, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -4500,7 +4504,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6598815579406187037, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4738,7 +4742,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 952149820}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.009372037, y: 0.009372037, z: 0.009372037}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4746,7 +4750,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.178, y: -0.3179}
+  m_AnchoredPosition: {x: -0.917, y: 0.177}
   m_SizeDelta: {x: 237.9876, y: 117.8302}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &952149822
@@ -4771,7 +4775,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "assets: https://assetstore.unity.com/packages/3d/environments/landscapes/polygon-tropical-jungle-nature-biomes-3d-environment-art-by-synt-234253\n\nmusic:\nCourse\r\nhttps://www.epidemicsound.com/music/tracks/6bea49c8-3213-44cc-964a-dcd2c0651cee/\r\n\r\n\U0001F7E9
     Zenitude\r\nhttps://pixabay.com/fr/music/m%c3%a9ditation-spirituel-flute-of-the-infinite-sky-486758/\r\n\r\n\U0001F7E6
-    Cherche et trouve\r\nhttps://www.epidemicsound.com/music/tracks/617fae3d-2f16-48dc-925b-3f670cbf4f24/\r\n"
+    Cherche et trouve\r\nhttps://www.epidemicsound.com/music/tracks/617fae3d-2f16-48dc-925b-3f670cbf4f24/\r\n\nlobby:
+    https://youtu.be/eEk3DeaWOyM?si=p0QSP268o3MIwk-7\n \n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 215af081559f6d143a611a47b33598d2, type: 2}
   m_sharedMaterial: {fileID: 3741781847841689044, guid: 215af081559f6d143a611a47b33598d2, type: 2}
@@ -4798,8 +4803,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 5
-  m_fontSizeBase: 5
+  m_fontSize: 8
+  m_fontSizeBase: 8
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -4834,7 +4839,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -1.1393661, y: 0, z: -0.6750948, w: 0.5800171}
+  m_margin: {x: -1.1393661, y: 0, z: -185.36879, w: -77.644165}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -7324,7 +7329,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.00000036645, y: 0.78}
+  m_AnchoredPosition: {x: 0.00000036645, y: 1}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1348775966

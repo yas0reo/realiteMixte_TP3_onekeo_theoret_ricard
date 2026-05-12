@@ -1972,6 +1972,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f8e15a76b959e9642ae964a47f399c88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &184528368
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 184528357}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 762d957f3759f564c9e2c429da52ae1c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &187256349 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1310680284674918719, guid: 4e3d870a7aa0af84cabc33908bf52ba8, type: 3}
@@ -5317,6 +5329,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1068045001908467037, guid: 2265b3926c31a3640a20a24a6c7de4a1, type: 3}
       insertIndex: -1
       addedObject: {fileID: 184528365}
+    - targetCorrespondingSourceObject: {fileID: 1068045001908467037, guid: 2265b3926c31a3640a20a24a6c7de4a1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 184528368}
     - targetCorrespondingSourceObject: {fileID: 1802869040939461633, guid: 2265b3926c31a3640a20a24a6c7de4a1, type: 3}
       insertIndex: -1
       addedObject: {fileID: 325009954}
@@ -11848,7 +11863,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5358220775051822842, guid: 236cce36376db1240bd5e68d040f6f02, type: 3}
       propertyPath: m_TagString
-      value: scene
+      value: retourne lobby
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11882,8 +11897,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 49.99996, y: 6.4753976, z: 50.000004}
-  m_Center: {x: -0.00000014077445, y: -3.2377038, z: 0.000000018611003}
+  m_Size: {x: 49.999947, y: 12.468586, z: 50.000004}
+  m_Center: {x: -0.000000018666736, y: -0.24111076, z: -0.000000033521523}
 --- !u!4 &943691263 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4690474597158837312, guid: 236cce36376db1240bd5e68d040f6f02, type: 3}
