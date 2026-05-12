@@ -4769,8 +4769,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "assets: https://assetstore.unity.com/packages/3d/environments/landscapes/polygon-tropical-jungle-nature-biomes-3d-environment-art-by-synt-234253\n\nmusic:
-    Course\r\nhttps://www.epidemicsound.com/music/tracks/6bea49c8-3213-44cc-964a-dcd2c0651cee/\r\n\r\n\U0001F7E9
+  m_text: "assets: https://assetstore.unity.com/packages/3d/environments/landscapes/polygon-tropical-jungle-nature-biomes-3d-environment-art-by-synt-234253\n\nmusic:\nCourse\r\nhttps://www.epidemicsound.com/music/tracks/6bea49c8-3213-44cc-964a-dcd2c0651cee/\r\n\r\n\U0001F7E9
     Zenitude\r\nhttps://pixabay.com/fr/music/m%c3%a9ditation-spirituel-flute-of-the-infinite-sky-486758/\r\n\r\n\U0001F7E6
     Cherche et trouve\r\nhttps://www.epidemicsound.com/music/tracks/617fae3d-2f16-48dc-925b-3f670cbf4f24/\r\n"
   m_isRightToLeft: 0
